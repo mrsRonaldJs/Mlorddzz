@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcello Ronald!!
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning about how git works and more about linux while i study css/html and programming logical 
-- 💞️ I’m looking to collaborate on ... I don't know exactly
+- 👀 I’m interested in Web Development!
+- 🌱 I’m currently learning something new every day...
+- 💞️ I’m looking to collaborate on front end for now.
 - 📫 How to reach me : mronaldjs@gmail.com
 
 <!---
