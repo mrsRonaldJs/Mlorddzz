@@ -1,6 +1,6 @@
 _Hello everybody 😀, i'm Marcello Ronald.
 
-_Actually I'm studying front end technologies, you guys can see my projects here, for now I'm starting to learn more advanced CSS concepts and trying to do some projects like training.
+_Actually I'm studying front end technologies, you guys can see my projects here, for now I'm starting to learn more advanced CSS concepts and trying to do some projects for training.
 
 
 <!---
